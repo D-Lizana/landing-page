@@ -1,0 +1,71 @@
+header{
+    font-family: "Roboto";
+    background-color: #1F2937;
+    color: white;
+}
+
+h1{
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.secondary-text{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+
+.header-logo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+button{
+    background-color: #3882F6;
+    color: white;
+    
+}
+
+/* primera seccion
+*/
+
+.pictures{
+    border: #3882F6;
+}
+
+h2{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+/* quote seccion
+*/
+
+.comment{
+    background-color: #E5E7EB;
+
+}
+
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color:#1F2937;
+}
+
+.nombre{
+    font-weight: 800;
+    font-size: 24px;
+}
+
+/* sigh up seccion
+*/
+
+.sign-up{
+    background-color: #3882F6;
+    color: white;
+}
+
+button, .white{
+    border: white;
+}
